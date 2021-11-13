@@ -1,4 +1,4 @@
-# Parallax-Web-Site
+# Parallax-WebSite
 
 You can view the project via this link
 
